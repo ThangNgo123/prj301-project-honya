@@ -1,20 +1,20 @@
 # prj301-project-honya
 
-#1)Account
+# 1)Account
 
-##Admin
+## Admin
 User:Thang
 Password:Thang123
 
-##Seller
+## Seller
 User:Quy
 Password:Quy123
 
-##User
+## User
 User:Quynh
 Password:Quynh123
 
-#2)Add thư viện sau trong lib2/lib:
+# 2)Add thư viện sau trong lib2/lib:
 
 activation-1.1
 javax.mail-1.6.2
@@ -25,6 +25,6 @@ sqlijdbc42
 tất cả các thư viện có đầu main commons và poi
 (Những thư viện còn lại ngoài những cái trên ko cần add)
 
-#3)Tạo file trong ổ C:
+# 3)Tạo file trong ổ C:
 (function xuất excel)
 ExcelProjectHonya
